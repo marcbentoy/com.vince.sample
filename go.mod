@@ -1,3 +1,3 @@
 module com.mydomain.GxK1QKWj
 
-go 1.21.11
+go 1.21.0
