@@ -2,5 +2,5 @@
   "Name": "Sample Plugin",
   "Package": "com.flarego.sample",
   "Description": "Sample plugin",
-  "Version": "0.0.2"
+  "Version": "0.0.3"
 }
